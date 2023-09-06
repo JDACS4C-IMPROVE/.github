@@ -1,12 +1,4 @@
-## Hi there 👋
+## IMPROVE Framework 👋
 
-<!--
+🙋‍♀️ With the IMPROVE project, we address some of the challenges around model comparisons and dataset standardization and availability through the development and provision of a software framework to make it routine practice for the broader community (cancer research and other areas) to compare new machine learning modeling approaches to previous models rigorously and comprehensively.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
